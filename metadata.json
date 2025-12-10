@@ -1,0 +1,7 @@
+{
+  "name": "Vibro Analysis Lite",
+  "description": "AI-powered Predictive Maintenance Analyzer for PLTU (Steam Power Plants). Features Vibration Analysis and Live Voice diagnostics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
